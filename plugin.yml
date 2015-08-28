@@ -1,0 +1,11 @@
+name: Kitpvp
+main: me.sidhant.kitpvp.Main
+version: 1.0
+description: a plugin for minecraft
+commands:
+   tokens:
+      description: Tokens
+      usage: /<command> [player]
+   Admin:
+      description: Admin
+      usage: /<command> [player]
